@@ -9,3 +9,9 @@ https://uk.mathworks.com/help/thingspeak/mqtt-basics.html
 
 MQTT RTaspberry pi Thingspeak
 https://community.thingspeak.com/tutorials/update-a-thingspeak-channel-using-mqtt-on-a-raspberry-pi/
+
+Pi mySQL LIte
+https://randomnerdtutorials.com/sqlite-database-on-a-raspberry-pi/
+
+Python web server
+https://www.youtube.com/watch?v=vyCboBjK4us
